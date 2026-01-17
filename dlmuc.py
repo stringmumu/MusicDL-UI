@@ -2,9 +2,8 @@
 Function:
     Implementation of MusicdlGUI
 Author:
-    Zhenchao Jin
-WeChat Official Account (微信公众号):
-    Charles的皮卡丘
+    mumu
+
 '''
 import os
 import sys
