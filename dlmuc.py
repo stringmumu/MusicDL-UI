@@ -1,10 +1,5 @@
 '''
-Function:
-    Implementation of MusicdlGUI
-Author:
-    Zhenchao Jin
-WeChat Official Account (微信公众号):
-    Charles的皮卡丘
+
 '''
 import os
 import sys
@@ -358,4 +353,5 @@ if __name__ == '__main__':
     app = QApplication(sys.argv)
     gui = MusicdlGUI()
     gui.show()
+
     sys.exit(app.exec_())
